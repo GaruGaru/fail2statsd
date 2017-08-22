@@ -3,6 +3,8 @@
 
 #### [DockerHub](https://hub.docker.com/r/garugaru/fail2ban-monitor/)
 
+#### [Example Dashboard](https://snapshot.raintank.io/dashboard/snapshot/teGUakGAVk9BDRDpivR0Zbph6IhhJfYk)
+
 
 ### Deployment example (compose.yml):
 
