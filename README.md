@@ -1,7 +1,7 @@
 ## Dockerized, lightweight, swarm-ready fail2ban log monitor for StatsD written in Go
 
 
-####[DockerHub](garugaru/fail2ban-monitor)
+#### [DockerHub](https://hub.docker.com/r/garugaru/fail2ban-monitor/)
 
 
 ### Deployment example (compose.yml):
